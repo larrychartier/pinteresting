@@ -1,3 +1,3 @@
 # One Month Rails
 
-Pinteresting... 
+Pinteresting... [*One Month Rails*](http://onemonth.com)
